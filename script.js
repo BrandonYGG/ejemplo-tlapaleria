@@ -1,3 +1,3 @@
 function cambiarTexto() {
-  document.getElementById("demo").innerText = "¡Texto cambiado con JS!";
+  document.getElementById("demo").innerText = "¡Funciono correctamente!";
 }
